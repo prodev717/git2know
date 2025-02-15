@@ -2,6 +2,8 @@
 
 Git2Know is a comprehensive GitHub analysis tool that provides quick insights into user profiles and repositories through AI-powered summaries.
 
+Website Link: [Git2Know](https://git2know.netlify.app)
+
 ## ✨ Features
 
 ### 1. 👤 DevInfo
